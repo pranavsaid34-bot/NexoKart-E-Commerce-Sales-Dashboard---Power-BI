@@ -1,41 +1,9 @@
-# NexoKart-E-Commerce-Sales-Dashboard---Power-BI
-Interactive NEXOKART E-Commerce Sales Dashboard built using Power BI to analyze sales performance, profit trends, product categories, customer purchasing behavior, payment methods, and state-wise revenue. Provides actionable business insights through interactive visualizations and KPI tracking.
-<div align="center">
-
 # 🛒 NexoKart E-Commerce Sales Dashboard
-
-**An interactive Power BI dashboard that turns raw e-commerce orders into clear sales, profit and customer insights.**
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-Measures-blueviolet?style=for-the-badge)
-![Power Query](https://img.shields.io/badge/Power%20Query-ETL-1f6feb?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
-
-[![NexoKart Dashboard](screenshots/dashboard.png)](https://app.powerbi.com/view?r=YOUR_LINK_HERE)
-
-### [🔗 Open the live interactive dashboard](https://app.powerbi.com/view?r=YOUR_LINK_HERE)
-_Click the image or the link above to filter by quarter and explore every chart._
-
-</div>
-
----
-
-## 📑 Table of Contents
-- [About the Project](#-about-the-project)
-- [Key Metrics](#-key-metrics)
-- [Dashboard Features](#-dashboard-features)
-- [Key Insights](#-key-insights)
-- [Data Model](#-data-model)
-- [Tools & Skills](#-tools--skills)
-- [How to Run](#-how-to-run)
-- [Repository Structure](#-repository-structure)
-- [Author](#-author)
-
----
+Interactive NEXOKART E-Commerce Sales Dashboard built using Power BI to analyze sales performance, profit trends, product categories, customer purchasing behavior, payment methods, and state-wise revenue. Provides actionable business insights through interactive visualizations and KPI tracking.
 
 ## 📌 About the Project
 
-NexoKart is an online retail business selling **Clothing, Electronics and Furniture** to customers across India. This one-page Power BI report gives management a fast answer to:
+An interactive Power BI dashboard designed to analyze NEXOKART's e-commerce sales performance and generate actionable business insights. The dashboard provides a comprehensive overview of revenue, profit, quantity, average order value, customer purchasing patterns, and product category performance.
 
 - How much revenue and profit are we making?
 - Which months, categories and sub-categories drive (or hurt) profit?
@@ -100,30 +68,8 @@ NexoKart is an online retail business selling **Clothing, Electronics and Furnit
 - **Data modelling**: relating the Orders and Details tables
 - **Data storytelling**: KPI cards, ranking charts and slicers
 
-## ▶️ How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/nexokart-ecommerce-sales-dashboard.git
-   ```
-2. Open `NEXOKART_ECOMMERCE_SALES_DASHBOARD.pbix` in [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free).
-3. Use the quarter slicer and click on charts to explore the data.
-
-## 📁 Repository Structure
-
-```
-nexokart-ecommerce-sales-dashboard/
-├── NEXOKART_ECOMMERCE_SALES_DASHBOARD.pbix
-├── NEXOKART_ECOMMERCE_SALES_DASHBOARD.pdf
-├── screenshots/
-│   └── dashboard.png
-└── README.md
-```
-
 ## 👤 Author
-
-**Your Name**
-[LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
+**Pranav Said** – <a href="https://linkedin.com/in/pranav-said-74a101286">LinkedIn</a> | <a href="https://github.com/pranavsaid34-bot">GitHub</a>
 
 ---
 
