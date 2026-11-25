@@ -52,7 +52,7 @@ An interactive Power BI dashboard designed to analyze NEXOKART's e-commerce sale
 </details>
 
 ##Lookin for custom dashboard let's
-<img width="1268" height="613" alt="Screenshot 2026-11-25 122754" src="https://github.com/user-attachments/assets/6d263646-15f4-44b1-92d1-55332bfe2cbb" />
+<img width="1268" height="613" alt="Screenshot 2026-11-25 122754" src="https://github.com/pranavsaid34-bot/NexoKart-E-Commerce-Sales-Dashboard---Power-BI/blob/4562750d4a5ce2ba2b1622f2ea84b22cc7f35335/Dashboard%20Screenshot.png" />
 
 ## 🗂️ Data Model
 
